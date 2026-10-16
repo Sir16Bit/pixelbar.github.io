@@ -20,8 +20,7 @@ with this.</p>
 
 Being a participant brings the following benefits:
 
-* 24x7 access through a private key to the space (After 2 months of
-* active membership).
+* 24x7 access through a private key to the space (After 2 months of active membership).
 * Use of the tools / equipment in the space.
 * The ability to show your project in the space.
 * Your own shelf to keep your project in the space.
